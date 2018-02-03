@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyPhoneSensors</string>
+    <string name="sensor_title">Sensors available in your device :</string>
+</resources>
